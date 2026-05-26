@@ -1,0 +1,12 @@
+{
+  "appointments": [
+    {
+      "type": "",
+      "date": "",
+      "time": "",
+      "location": "",
+      "with": "",
+      "notes": ""
+    }
+  ]
+}
