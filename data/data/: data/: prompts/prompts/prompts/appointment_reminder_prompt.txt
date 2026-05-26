@@ -1,0 +1,6 @@
+Check today's date against appointments.json.
+If there is an appointment today:
+- Tell her the time, place, and who it is with.
+- Remind her in simple, clear language.
+If there is no appointment today:
+- Reassure her that she has nothing scheduled today.
